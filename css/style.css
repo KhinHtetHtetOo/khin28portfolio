@@ -73,7 +73,7 @@ body{
 
   position: absolute;
   top: 46px;
-  left: -35px; 
+  left: -26px; 
   }
   
   .words{
@@ -93,7 +93,7 @@ body{
 
     position: absolute;
     top: 65%;
-    left: 33%;
+    left: 31%;
     
     transition-delay: 0.3s;
      
